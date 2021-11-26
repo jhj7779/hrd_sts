@@ -1,0 +1,62 @@
+빨리	NNP
+자동차	NNP
+건축건설토목	NNP
+생산물류회계	NNP
+전산공학	NNP
+디자인	NNP
+기계설계및가공	NNP
+전기전자	NNP
+#
+자동차	NNP
+자동차정비	NNP
+#
+굴삭기	NNP
+지게차	NNP
+건설기계	NNP
+건설기계운전	NNP
+#
+측량	NNP
+지형공간정보	NNP
+지형정보	NNP
+공간정보	NNP
+#
+회계	NNP
+사무원	NNP
+기초회계	NNP
+전산세무	NNP
+ERP	NNP
+생산	NNP
+물류	NNP
+인사	NNP
+회계	NNP
+전산	NNP
+#
+인공지능	NNP
+빅데이터	NNP
+개발자	NNP
+ICT	NNP
+정보보안	NNP
+정보보호	NNP
+스마트공장	NNP
+#
+시각디자인	NNP
+콘텐츠제작	NNP
+디지털디자인	NNP
+UI	NNP
+UX	NNP
+광고	NNP
+#
+CAD	NNP
+CAM	NNP
+카티아	NNP
+MCT	NNP
+밀링	NNP
+기계설계	NNP
+기계설계가공	NNP
+기계설계제작	NNP
+인벤터	NNP
+#
+태양광	NNP
+전기내선	NNP
+
+
